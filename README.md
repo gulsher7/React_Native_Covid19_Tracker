@@ -1,1 +1,1 @@
-# COVID19_TRACKER_REACT_NATIVE
+# React_Native_Covid19_Tracker
