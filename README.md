@@ -1,6 +1,6 @@
 # React_Native_Covid19_Tracker
 <h2>This is Open Source Android/ios react native Project</h2><br/>
-<h3><i>It is simple Covid 19 Indian Tracker Mobile App </i></h3>
+
 
 ## Installing / Getting started
 ```shell
