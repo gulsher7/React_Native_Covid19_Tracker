@@ -4,7 +4,10 @@
 
 ## Installing / Getting started
 ```shell
+go to root folder and type below commands
 npm i
+cd ios
+pod install
 react-native run-ios/android
 ```
 
